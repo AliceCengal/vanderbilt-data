@@ -1755,7 +1755,8 @@
       "imagePath":"http://www.vanderbilt.edu/map/images/272.jpg",
       "videoPath":"",
       "latitude":36.143004,
-      "longitude":-86.796633
+      "longitude":-86.796633,
+      "image404":true
    },
    {
       "id":149,
@@ -1820,7 +1821,8 @@
       "imagePath":"http://www.vanderbilt.edu/map/images/23e.jpg",
       "videoPath":"",
       "latitude":36.143069,
-      "longitude":-86.800794
+      "longitude":-86.800794,
+      "image404":true
    },
    {
       "id":154,
@@ -1846,7 +1848,8 @@
       "imagePath":"http://www.vanderbilt.edu/map/images/400.jpg",
       "videoPath":"",
       "latitude":36.106910,
-      "longitude":-86.762747
+      "longitude":-86.762747,
+      "image404":true
    },
    {
       "id":156,
@@ -2815,7 +2818,8 @@
       "imagePath":"http://www.vanderbilt.edu/map/images/90.jpg",
       "videoPath":"",
       "latitude":36.145597,
-      "longitude":-86.806074
+      "longitude":-86.806074,
+      "image404":true
    },
    {
       "id":233,
@@ -3000,6 +3004,7 @@
       "imagePath":"",
       "videoPath":"",
       "latitude":36.142988,
-      "longitude":-86.811656
+      "longitude":-86.811656,
+      "image404":true
    }
 ]
